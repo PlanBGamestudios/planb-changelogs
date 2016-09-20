@@ -34,7 +34,8 @@ Changes between the different versions of our games. This is your official sourc
 
 
 ###0.4
-> [Download >](https://www.indiedb.com/downloads/mirror/98707/113/538750452c3e79be0667d4e92b565005/?referer=http%3A%2F%2Fwww.indiedb.com%2Fgames%2Fsurviveon%2Fdownloads)
+> [Download >](https://www.indiedb.com/games/surviveon/downloads/surviveon-alpha-04-windows)  
+
 ####Added
 - New Unity5 GUI pause menu
 - Advanced graphic options
