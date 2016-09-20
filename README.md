@@ -6,9 +6,9 @@ Changes between the different versions of our games. This is your official sourc
 ##Contact
 
 #Games
+
 ##SurviveOn!
 ###0.5 (not released!)
-
 ####Added
 - Saving mechanism (for Player position, vehicles etc.)
 - Improved main menu (using Unity’s UI-System)
@@ -23,13 +23,12 @@ Changes between the different versions of our games. This is your official sourc
 - Quests and world events
 - New effects for when the player is low on health.
 
- 
 ####Fixes etc.
 - Several visual improvements
 - Slightly improved audio of some components
 - Gameplay and GUI improvements
+- Re-textured huge parts of the map.
 
- 
 ####Removed
 - Blood screen effect for when the player is low on health
 
@@ -39,5 +38,17 @@ Changes between the different versions of our games. This is your official sourc
 ###0.3
 
 ###0.2
+####Added
+- New level.
+- Ocean.
+- Attackable NPC prototypes.
+
+####Removed
+- Old map.
+- Tutorial level.
 
 ###0.1
+- First release of the game featuring a huge test world to explore.
+- Small weapon arsenal.
+- Vehicles.
+- Tutorial level.
