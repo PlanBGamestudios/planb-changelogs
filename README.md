@@ -34,6 +34,19 @@ Changes between the different versions of our games. This is your official sourc
 
 
 ###0.4
+####Added
+- New Unity5 GUI pause menu
+- Advanced graphic options
+- Possibility to turn individual image effects on/off
+- Audio options
+- Water reflections
+- Character stats window
+- Ammo boxes hold a more limited amount of ammo
+- Crosshair styles improved
+
+####Removed
+- Pre 4.6 Unity-GUI pause menu
+- Crease shading image effect
 
 ###0.3
 ####Added 
