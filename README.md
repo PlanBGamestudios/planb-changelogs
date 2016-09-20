@@ -2,6 +2,8 @@
 
 ##Introduction
 Changes between the different versions of our games. This is your official source for information on what exactly is new in our recent releases.
+> For more information about our company or our products, you can click the button below.
+> [More Information >](https://planbgames.de)  
 
 ##Contact
 
@@ -34,8 +36,6 @@ Changes between the different versions of our games. This is your official sourc
 
 
 ###0.4
-> [Download >](https://www.indiedb.com/games/surviveon/downloads/surviveon-alpha-04-windows)  
-
 ####Added
 - New Unity5 GUI pause menu
 - Advanced graphic options
