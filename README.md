@@ -36,12 +36,21 @@ Changes between the different versions of our games. This is your official sourc
 ###0.4
 
 ###0.3
+####Added 
+- New and improved water mesh with higher details.
+- Several new image effects and additions to the map.
+- The player is now able to swim. 
+
+
+####Removed
+- Removed invisible walls.
 
 ###0.2
 ####Added
 - New level.
 - Ocean.
 - Attackable NPC prototypes.
+- Invisisble walls to prevent the player from exiting the world.
 
 ####Removed
 - Old map.
