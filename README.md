@@ -10,7 +10,7 @@ Changes between the different versions of our games. This is your official sourc
 
 ##SurviveOn!
 
-###0.5 (not released!)
+###0.5
 ####Added
 - Saving mechanism (for Player position, vehicles etc.)
 - Improved main menu (using Unity’s UI-System)
