@@ -76,3 +76,5 @@ Changes between the different versions of our games. This is your official sourc
 - Small weapon arsenal.
 - Vehicles.
 - Tutorial level.
+
+> This was the first version of the game. Nearly all assets of this state have been replaced as of now!
