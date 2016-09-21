@@ -24,7 +24,7 @@ Changes between the different versions of our games. This is your official sourc
 - Stunning new interior and exterior
 - MiniMap navigation and waypoints
 - Quests and world events
-- New effects for when the player is low on health
+- Vignetting effect for when the player is low on health
 - Random item spawning
 
 
