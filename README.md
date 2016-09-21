@@ -60,7 +60,6 @@ Changes between the different versions of our games. This is your official sourc
 - Several new image effects and additions to the map
 - The player is now able to swim
 
-
 ####Removed
 - Removed invisible walls
 
