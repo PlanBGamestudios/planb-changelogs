@@ -25,6 +25,7 @@ Changes between the different versions of our games. This is your official sourc
 - Quests and world events
 - New effects for when the player is low on health.
 - Random item spawning.
+- Stunning new interior and exterior.
 
 ####Fixes etc.
 - Several visual improvements
@@ -34,6 +35,8 @@ Changes between the different versions of our games. This is your official sourc
 
 ####Removed
 - Blood screen effect for when the player is low on health
+- Old villages etc.
+- Old textures and models that didn't fit our design plans.
 
 ###0.4
 ####Added
