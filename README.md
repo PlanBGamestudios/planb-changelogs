@@ -27,29 +27,29 @@ Changes between the different versions of our games. This is your official sourc
 
 ###0.3
 ####Added 
-- New and improved water mesh with higher details.
-- Several new image effects and additions to the map.
-- The player is now able to swim. 
+- New and improved water mesh with higher details
+- Several new image effects and additions to the map
+- The player is now able to swim  
 
 
 ####Removed
-- Removed invisible walls.
+- Removed invisible walls  
 
 ###0.2
 ####Added
 - New level.
 - Ocean.
 - Attackable NPC prototypes.
-- Invisisble walls to prevent the player from exiting the world.
+- Invisisble walls to prevent the player from exiting the world
 
 ####Removed
-- Old map.
-- Tutorial level.
+- Old map
+- Tutorial level
 
 ###0.1
-- First release of the game featuring a huge test world to explore.
-- Small weapon arsenal.
-- Vehicles.
-- Tutorial level.
+- First release of the game featuring a huge test world to explore
+- Small weapon arsenal
+- Vehicles
+- Tutorial level
 
 > This was the first version of the game. Nearly all assets of this state have been replaced as of now!
